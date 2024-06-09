@@ -1,0 +1,42 @@
+body{
+    background-color: #000;
+    background-image: url('imagedrawing1.png');
+    background-repeat:no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-attachment: fixed;
+    max-height: 160px;
+}
+img{
+    width:100%;
+}
+div.item{
+    max-width:60%;
+    max-height:140px;
+    margin-left:auto;
+    margin-right:auto;
+}
+div.item.a{
+    width:20%;
+    
+}
+div.item.b{
+    width: 40%;
+    
+}
+div.item.c{
+    width:10%;
+
+    
+}
+div.rugs{
+    width:20%;
+    max-height:150px;
+}
+div.rugs.a{
+    opacity:0.5;
+}
+div.rugs.b{
+    opacity:1;
+    margin-left:auto;
+}
